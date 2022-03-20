@@ -24,7 +24,11 @@ Capacidade de um objeto poder ser referenciado de várias formas, ou seja, é ca
 Foram criadas duas listas para contas( uma pra Conta corrente e outra para conta poupança) e uma para clientes.
 
 Para limitar o escopo do projeto foram tomadas algumas ações: 
+
 1 - não foi permitido dois usuario com o mesmo nome.
+
 2 - nao foi permitido mais de uma conta de cada tipo para cada cliente/usuario.
+
 3 - a transferencia foi limitada a diferentes clientes com o mesmo tipo de conta.
+
 4  - qualquer entrada invalida retorna o usuario ao menu principal.
